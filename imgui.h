@@ -25,8 +25,8 @@
 #define IMGUI_VERSION               "1.89.4 WIP"
 #define IMGUI_VERSION_NUM           18933
 #define IMGUI_HAS_TABLE
-#define IMGUI_HAS_VIEWPORT          // Viewport WIP branch
-#define IMGUI_HAS_DOCK              // Docking WIP branch
+#define IMGUI_HAS_VIEWPORT         1 // Viewport WIP branch
+#define IMGUI_HAS_DOCK             1 // Docking WIP branch
 
 /*
 
